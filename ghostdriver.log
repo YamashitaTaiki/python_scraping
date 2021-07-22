@@ -1,0 +1,26 @@
+[INFO  - 2021-07-22T16:46:26.401Z] GhostDriver - Main - running on port 41473
+[INFO  - 2021-07-22T16:46:26.866Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-07-22T16:46:26.867Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.customHeaders:  - {}
+[INFO  - 2021-07-22T16:46:26.867Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-07-22T16:46:26.867Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96
+[ERROR - 2021-07-22T16:46:27.220Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-22T16:46:27.221Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.onError - stack:
+  global code (https://1point02.jp/op/js/delta.js:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-22T16:46:28.056Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-22T16:46:28.056Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.onError - stack:
+  global code (https://1point02.jp/op/js/delta.js:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-22T16:46:29.022Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-22T16:46:29.022Z] Session [5b48ba80-eb0c-11eb-a8c2-e1c2644c9e96] - page.onError - stack:
+  global code (https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js:6)
+
+  phantomjs://platform/console++.js:263 in error
