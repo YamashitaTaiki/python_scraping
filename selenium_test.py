@@ -38,7 +38,7 @@ url_mypage = "https://1point02.jp/op/index.aspx"
 print("マイページのURL=", url_mypage)
 
 # マイページを表示
-browser.get(url_mypage)
+driver.get(url_mypage)
 
 # お気に入りのタイトルを列挙
 links = driver.find_elements_by_css_selector(
