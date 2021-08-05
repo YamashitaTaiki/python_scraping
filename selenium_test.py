@@ -47,10 +47,3 @@ print("マイページのURL=", url_mypage)
 # マイページを表示
 driver.get(url_mypage)
 
-# お気に入りのタイトルを列挙
-links = driver.find_elements_by_css_selector(
-    "#gv_WAR_BAT li > a")
-for a in links:
-    href = a.get_attribute('href')
-    title = a.text
-    print("-", title, ">", href)

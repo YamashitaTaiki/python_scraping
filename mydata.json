@@ -1,0 +1,534 @@
+{
+  "Goal": [
+    {
+      "statName": "JamieVardy",
+      "statNameSecondary": "Leicester",
+      "stat": "23",
+      "pos": "1."
+    },
+    {
+      "statName": "Pierre-Emerick Aubameyang",
+      "statNameSecondary": "Arsenal",
+      "stat": "22",
+      "pos": "2."
+    },
+    {
+      "statName": "Danny Ings",
+      "stat": "22",
+      "pos": "2."
+    },
+    {
+      "statName": "Raheem Sterling",
+      "statNameSecondary": "Man City",
+      "stat": "20",
+      "pos": "4."
+    },
+    {
+      "statName": "Mohamed Salah",
+      "statNameSecondary": "Liverpool",
+      "stat": "19",
+      "pos": "5."
+    },
+    {
+      "statName": "Harry Kane",
+      "statNameSecondary": "Spurs",
+      "stat": "18",
+      "pos": "6."
+    },
+    {
+      "statName": "Sadio Mané",
+      "statNameSecondary": "Liverpool",
+      "stat": "18",
+      "pos": "6."
+    },
+    {
+      "statName": "Raúl Jiménez",
+      "statNameSecondary": "Wolves",
+      "stat": "17",
+      "pos": "8."
+    },
+    {
+      "statName": "Anthony Martial",
+      "statNameSecondary": "Man Utd",
+      "stat": "17",
+      "pos": "8."
+    },
+    {
+      "statName": "Marcus Rashford",
+      "statNameSecondary": "Man Utd",
+      "stat": "17",
+      "pos": "8."
+    }
+  ],
+  "Assists": [
+    {
+      "statName": "KevinDe Bruyne",
+      "statNameSecondary": "Man City",
+      "stat": "20",
+      "pos": "1."
+    },
+    {
+      "statName": "Trent Alexander-Arnold",
+      "statNameSecondary": "Liverpool",
+      "stat": "13",
+      "pos": "2."
+    },
+    {
+      "statName": "Andrew Robertson",
+      "statNameSecondary": "Liverpool",
+      "stat": "12",
+      "pos": "3."
+    },
+    {
+      "statName": "Mohamed Salah",
+      "statNameSecondary": "Liverpool",
+      "stat": "10",
+      "pos": "4."
+    },
+    {
+      "statName": "David Silva",
+      "stat": "10",
+      "pos": "4."
+    },
+    {
+      "statName": "Son Heung-Min",
+      "statNameSecondary": "Spurs",
+      "stat": "10",
+      "pos": "4."
+    },
+    {
+      "statName": "Riyad Mahrez",
+      "statNameSecondary": "Man City",
+      "stat": "9",
+      "pos": "7."
+    },
+    {
+      "statName": "Adama Traoré",
+      "statNameSecondary": "Wolves",
+      "stat": "9",
+      "pos": "7."
+    },
+    {
+      "statName": "Roberto Firmino",
+      "statNameSecondary": "Liverpool",
+      "stat": "8",
+      "pos": "9."
+    },
+    {
+      "statName": "Harvey Barnes",
+      "statNameSecondary": "Leicester",
+      "stat": "8",
+      "pos": "9."
+    }
+  ],
+  "Passes": [
+    {
+      "statName": "Virgilvan Dijk",
+      "statNameSecondary": "Liverpool",
+      "stat": "3,259",
+      "pos": "1."
+    },
+    {
+      "statName": "Rodri",
+      "statNameSecondary": "Man City",
+      "stat": "2,579",
+      "pos": "2."
+    },
+    {
+      "statName": "Harry Maguire",
+      "statNameSecondary": "Man Utd",
+      "stat": "2,519",
+      "pos": "3."
+    },
+    {
+      "statName": "Andrew Robertson",
+      "statNameSecondary": "Liverpool",
+      "stat": "2,492",
+      "pos": "4."
+    },
+    {
+      "statName": "Jonny Evans",
+      "statNameSecondary": "Leicester",
+      "stat": "2,491",
+      "pos": "5."
+    },
+    {
+      "statName": "Trent Alexander-Arnold",
+      "statNameSecondary": "Liverpool",
+      "stat": "2,440",
+      "pos": "6."
+    },
+    {
+      "statName": "César Azpilicueta",
+      "statNameSecondary": "Chelsea",
+      "stat": "2,435",
+      "pos": "7."
+    },
+    {
+      "statName": "Çaglar Söyüncü",
+      "statNameSecondary": "Leicester",
+      "stat": "2,319",
+      "pos": "8."
+    },
+    {
+      "statName": "Jorginho",
+      "statNameSecondary": "Chelsea",
+      "stat": "2,257",
+      "pos": "9."
+    },
+    {
+      "statName": "Lewis Dunk",
+      "statNameSecondary": "Brighton",
+      "stat": "2,251",
+      "pos": "10."
+    }
+  ],
+  "Minuter player": [
+    {
+      "statName": "GeorgeBaldock",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Conor Coady",
+      "statNameSecondary": "Wolves",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "David de Gea",
+      "statNameSecondary": "Man Utd",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Rui Patrício",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Martin Dúbravka",
+      "statNameSecondary": "Newcastle",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Ben Foster",
+      "statNameSecondary": "Watford",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Harry Maguire",
+      "statNameSecondary": "Man Utd",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Jordan Pickford",
+      "statNameSecondary": "Everton",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Nick Pope",
+      "statNameSecondary": "Burnley",
+      "stat": "3,420",
+      "pos": "1."
+    },
+    {
+      "statName": "Declan Rice",
+      "statNameSecondary": "West Ham",
+      "stat": "3,420",
+      "pos": "1."
+    }
+  ],
+  "shots": [
+    {
+      "statName": "MohamedSalah Ghaly",
+      "statNameSecondary": "Liverpool",
+      "stat": "132",
+      "pos": "1."
+    },
+    {
+      "statName": "Raúl Jiménez",
+      "statNameSecondary": "Wolves",
+      "stat": "118",
+      "pos": "2."
+    },
+    {
+      "statName": "Gabriel Jesus",
+      "statNameSecondary": "Man City",
+      "stat": "101",
+      "pos": "3."
+    },
+    {
+      "statName": "Roberto Firmino",
+      "statNameSecondary": "Liverpool",
+      "stat": "99",
+      "pos": "4."
+    },
+    {
+      "statName": "Kevin De Bruyne",
+      "statNameSecondary": "Man City",
+      "stat": "99",
+      "pos": "4."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "hit woodwork": [
+    {
+      "statName": "KevinDe Bruyne",
+      "statNameSecondary": "Man City",
+      "stat": "6",
+      "pos": "1."
+    },
+    {
+      "statName": "Danny Ings",
+      "stat": "6",
+      "pos": "1."
+    },
+    {
+      "statName": "Marcus Rashford",
+      "statNameSecondary": "Man Utd",
+      "stat": "6",
+      "pos": "1."
+    },
+    {
+      "statName": "Sergio Agüero",
+      "stat": "5",
+      "pos": "4."
+    },
+    {
+      "statName": "Gerard Deulofeu",
+      "stat": "5",
+      "pos": "4."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "through balls": [
+    {
+      "statName": "KevinDe Bruyne",
+      "statNameSecondary": "Man City",
+      "stat": "32",
+      "pos": "1."
+    },
+    {
+      "statName": "James Maddison",
+      "statNameSecondary": "Leicester",
+      "stat": "19",
+      "pos": "2."
+    },
+    {
+      "statName": "Emiliano Buendía",
+      "stat": "17",
+      "pos": "3."
+    },
+    {
+      "statName": "Jorginho",
+      "statNameSecondary": "Chelsea",
+      "stat": "16",
+      "pos": "4."
+    },
+    {
+      "statName": "Harry Kane",
+      "statNameSecondary": "Spurs",
+      "stat": "13",
+      "pos": "5."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "crosses": [
+    {
+      "statName": "TrentAlexander-Arnold",
+      "statNameSecondary": "Liverpool",
+      "stat": "382",
+      "pos": "1."
+    },
+    {
+      "statName": "Kevin De Bruyne",
+      "statNameSecondary": "Man City",
+      "stat": "304",
+      "pos": "2."
+    },
+    {
+      "statName": "Lucas Digne",
+      "statNameSecondary": "Everton",
+      "stat": "270",
+      "pos": "3."
+    },
+    {
+      "statName": "James Ward-Prowse",
+      "statNameSecondary": "Southampton",
+      "stat": "267",
+      "pos": "4."
+    },
+    {
+      "statName": "Dwight McNeil",
+      "statNameSecondary": "Burnley",
+      "stat": "257",
+      "pos": "5."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "tackles": [
+    {
+      "statName": "EdersonSantana de Moraes",
+      "statNameSecondary": "Man City",
+      "stat": "16",
+      "pos": "1."
+    },
+    {
+      "statName": "Nick Pope",
+      "statNameSecondary": "Burnley",
+      "stat": "15",
+      "pos": "2."
+    },
+    {
+      "statName": "David de Gea",
+      "statNameSecondary": "Man Utd",
+      "stat": "13",
+      "pos": "3."
+    },
+    {
+      "statName": "Rui Patrício",
+      "stat": "13",
+      "pos": "3."
+    },
+    {
+      "statName": "Dean Henderson",
+      "statNameSecondary": "Man Utd",
+      "stat": "13",
+      "pos": "3."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "blocks": [
+    {
+      "statName": "MartinDúbravka",
+      "statNameSecondary": "Newcastle",
+      "stat": "140",
+      "pos": "1."
+    },
+    {
+      "statName": "Tim Krul",
+      "statNameSecondary": "Norwich",
+      "stat": "132",
+      "pos": "2."
+    },
+    {
+      "statName": "Aaron Ramsdale",
+      "stat": "129",
+      "pos": "3."
+    },
+    {
+      "statName": "Nick Pope",
+      "statNameSecondary": "Burnley",
+      "stat": "120",
+      "pos": "4."
+    },
+    {
+      "statName": "Ben Foster",
+      "statNameSecondary": "Watford",
+      "stat": "117",
+      "pos": "5."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "clearances": [
+    {
+      "statName": "VicenteGuaita",
+      "statNameSecondary": "Crystal Palace",
+      "stat": "22",
+      "pos": "1."
+    },
+    {
+      "statName": "Tim Krul",
+      "statNameSecondary": "Norwich",
+      "stat": "20",
+      "pos": "2."
+    },
+    {
+      "statName": "Martin Dúbravka",
+      "statNameSecondary": "Newcastle",
+      "stat": "18",
+      "pos": "3."
+    },
+    {
+      "statName": "Bernd Leno",
+      "statNameSecondary": "Arsenal",
+      "stat": "17",
+      "pos": "4."
+    },
+    {
+      "statName": "Aaron Ramsdale",
+      "stat": "17",
+      "pos": "4."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "head clearances": [
+    {
+      "statName": "TimKrul",
+      "statNameSecondary": "Norwich",
+      "stat": "68",
+      "pos": "1."
+    },
+    {
+      "statName": "Ben Foster",
+      "statNameSecondary": "Watford",
+      "stat": "64",
+      "pos": "2."
+    },
+    {
+      "statName": "Aaron Ramsdale",
+      "stat": "62",
+      "pos": "3."
+    },
+    {
+      "statName": "Martin Dúbravka",
+      "statNameSecondary": "Newcastle",
+      "stat": "58",
+      "pos": "4."
+    },
+    {
+      "statName": "Jordan Pickford",
+      "statNameSecondary": "Everton",
+      "stat": "56",
+      "pos": "5."
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}
