@@ -1,100 +1,101 @@
-Goal,JamieVardy,Leicester,23,1.
-Pierre-Emerick Aubameyang,Arsenal,22,2.,Goal
-Danny Ings,22,2.,Goal
-Raheem Sterling,Man City,20,4.,Goal
-Mohamed Salah,Liverpool,19,5.,Goal
-Harry Kane,Spurs,18,6.,Goal
-Sadio Mané,Liverpool,18,6.,Goal
-Raúl Jiménez,Wolves,17,8.,Goal
-Anthony Martial,Man Utd,17,8.,Goal
-Marcus Rashford,Man Utd,17,8.,Goal
-Assists,KevinDe Bruyne,Man City,20,1.
-Trent Alexander-Arnold,Liverpool,13,2.,Assists
-Andrew Robertson,Liverpool,12,3.,Assists
-Mohamed Salah,Liverpool,10,4.,Assists
-David Silva,10,4.,Assists
-Son Heung-Min,Spurs,10,4.,Assists
-Riyad Mahrez,Man City,9,7.,Assists
-Adama Traoré,Wolves,9,7.,Assists
-Roberto Firmino,Liverpool,8,9.,Assists
-Harvey Barnes,Leicester,8,9.,Assists
-Passes,Virgilvan Dijk,Liverpool,"3,259",1.
-Rodri,Man City,"2,579",2.,Passes
-Harry Maguire,Man Utd,"2,519",3.,Passes
-Andrew Robertson,Liverpool,"2,492",4.,Passes
-Jonny Evans,Leicester,"2,491",5.,Passes
-Trent Alexander-Arnold,Liverpool,"2,440",6.,Passes
-César Azpilicueta,Chelsea,"2,435",7.,Passes
-Çaglar Söyüncü,Leicester,"2,319",8.,Passes
-Jorginho,Chelsea,"2,257",9.,Passes
-Lewis Dunk,Brighton,"2,251",10.,Passes
-Minuter player,GeorgeBaldock,"3,420",1.
-Conor Coady,Wolves,"3,420",1.,Minuter player
-David de Gea,Man Utd,"3,420",1.,Minuter player
-Rui Patrício,"3,420",1.,Minuter player
-Martin Dúbravka,Newcastle,"3,420",1.,Minuter player
-Ben Foster,Watford,"3,420",1.,Minuter player
-Harry Maguire,Man Utd,"3,420",1.,Minuter player
-Jordan Pickford,Everton,"3,420",1.,Minuter player
-Nick Pope,Burnley,"3,420",1.,Minuter player
-Declan Rice,West Ham,"3,420",1.,Minuter player
-shots,MohamedSalah Ghaly,Liverpool,132,1.
-Raúl Jiménez,Wolves,118,2.,shots
-Gabriel Jesus,Man City,101,3.,shots
-Roberto Firmino,Liverpool,99,4.,shots
-Kevin De Bruyne,Man City,99,4.,shots
-hit woodwork,KevinDe Bruyne,Man City,6,1.
-Danny Ings,6,1.,hit woodwork
-Marcus Rashford,Man Utd,6,1.,hit woodwork
-Sergio Agüero,5,4.,hit woodwork
-Gerard Deulofeu,5,4.,hit woodwork
-through balls,KevinDe Bruyne,Man City,32,1.
-James Maddison,Leicester,19,2.,through balls
-Emiliano Buendía,17,3.,through balls
-Jorginho,Chelsea,16,4.,through balls
-Harry Kane,Spurs,13,5.,through balls
-crosses,TrentAlexander-Arnold,Liverpool,382,1.
-Kevin De Bruyne,Man City,304,2.,crosses
-Lucas Digne,Everton,270,3.,crosses
-James Ward-Prowse,Southampton,267,4.,crosses
-Dwight McNeil,Burnley,257,5.,crosses
-tackles,AaronWan-Bissaka,Man Utd,129,1.
-Wilfred Ndidi,Leicester,128,2.,tackles
-Ricardo Pereira,Leicester,119,3.,tackles
-Declan Rice,West Ham,116,4.,tackles
-Serge Aurier,Spurs,93,5.,tackles
-blocks,TyroneMings,Aston Villa,48,1.
-James Tarkowski,Burnley,47,2.,blocks
-Ben Godfrey,37,3.,blocks
-David Luiz,37,3.,blocks
-Lewis Dunk,Brighton,33,5.,blocks
-clearances,JamesTarkowski,Burnley,200,1.
-Jan Bednarek,Southampton,193,2.,clearances
-Tyrone Mings,Aston Villa,189,3.,clearances
-Federico Fernández,Newcastle,185,4.,clearances
-Jonny Evans,Leicester,171,5.,clearances
-head clearances,JamesTarkowski,Burnley,111,1.
-Federico Fernández,Newcastle,106,2.,head clearances
-Chris Basham,102,3.,head clearances
-Harry Maguire,Man Utd,94,4.,head clearances
-Michael Keane,Everton,91,5.,head clearances
-Clean Sheets,EdersonSantana de Moraes,Man City,16,1.
-Nick Pope,Burnley,15,2.,Clean Sheets
-David de Gea,Man Utd,13,3.,Clean Sheets
-Rui Patrício,13,3.,Clean Sheets
-Dean Henderson,Man Utd,13,3.,Clean Sheets
-Saves,MartinDúbravka,Newcastle,140,1.
-Tim Krul,Norwich,132,2.,Saves
-Aaron Ramsdale,129,3.,Saves
-Nick Pope,Burnley,120,4.,Saves
-Ben Foster,Watford,117,5.,Saves
-Punches,VicenteGuaita,Crystal Palace,22,1.
-Tim Krul,Norwich,20,2.,Punches
-Martin Dúbravka,Newcastle,18,3.,Punches
-Bernd Leno,Arsenal,17,4.,Punches
-Aaron Ramsdale,17,4.,Punches
-Goals Conceded,TimKrul,Norwich,68,1.
-Ben Foster,Watford,64,2.,Goals Conceded
-Aaron Ramsdale,62,3.,Goals Conceded
-Martin Dúbravka,Newcastle,58,4.,Goals Conceded
-Jordan Pickford,Everton,56,5.,Goals Conceded
+position,kind,statName,statNameSecondary,stat,pos
+Premier League Player Stats,Goal,JamieVardy,Leicester,23,1.
+Premier League Player Stats,Goal,Pierre-Emerick Aubameyang,Arsenal,22,2.
+Premier League Player Stats,Goal,Danny Ings,,22,2.
+Premier League Player Stats,Goal,Raheem Sterling,Man City,20,4.
+Premier League Player Stats,Goal,Mohamed Salah,Liverpool,19,5.
+Premier League Player Stats,Goal,Harry Kane,Spurs,18,6.
+Premier League Player Stats,Goal,Sadio Mané,Liverpool,18,6.
+Premier League Player Stats,Goal,Raúl Jiménez,Wolves,17,8.
+Premier League Player Stats,Goal,Anthony Martial,Man Utd,17,8.
+Premier League Player Stats,Goal,Marcus Rashford,Man Utd,17,8.
+Premier League Player Stats,Assists,KevinDe Bruyne,Man City,20,1.
+Premier League Player Stats,Assists,Trent Alexander-Arnold,Liverpool,13,2.
+Premier League Player Stats,Assists,Andrew Robertson,Liverpool,12,3.
+Premier League Player Stats,Assists,Mohamed Salah,Liverpool,10,4.
+Premier League Player Stats,Assists,David Silva,,10,4.
+Premier League Player Stats,Assists,Son Heung-Min,Spurs,10,4.
+Premier League Player Stats,Assists,Riyad Mahrez,Man City,9,7.
+Premier League Player Stats,Assists,Adama Traoré,Wolves,9,7.
+Premier League Player Stats,Assists,Roberto Firmino,Liverpool,8,9.
+Premier League Player Stats,Assists,Harvey Barnes,Leicester,8,9.
+Premier League Player Stats,Passes,Virgilvan Dijk,Liverpool,"3,259",1.
+Premier League Player Stats,Passes,Rodri,Man City,"2,579",2.
+Premier League Player Stats,Passes,Harry Maguire,Man Utd,"2,519",3.
+Premier League Player Stats,Passes,Andrew Robertson,Liverpool,"2,492",4.
+Premier League Player Stats,Passes,Jonny Evans,Leicester,"2,491",5.
+Premier League Player Stats,Passes,Trent Alexander-Arnold,Liverpool,"2,440",6.
+Premier League Player Stats,Passes,César Azpilicueta,Chelsea,"2,435",7.
+Premier League Player Stats,Passes,Çaglar Söyüncü,Leicester,"2,319",8.
+Premier League Player Stats,Passes,Jorginho,Chelsea,"2,257",9.
+Premier League Player Stats,Passes,Lewis Dunk,Brighton,"2,251",10.
+Premier League Player Stats,Minuter player,GeorgeBaldock,,"3,420",1.
+Premier League Player Stats,Minuter player,Conor Coady,Wolves,"3,420",1.
+Premier League Player Stats,Minuter player,David de Gea,Man Utd,"3,420",1.
+Premier League Player Stats,Minuter player,Rui Patrício,,"3,420",1.
+Premier League Player Stats,Minuter player,Martin Dúbravka,Newcastle,"3,420",1.
+Premier League Player Stats,Minuter player,Ben Foster,Watford,"3,420",1.
+Premier League Player Stats,Minuter player,Harry Maguire,Man Utd,"3,420",1.
+Premier League Player Stats,Minuter player,Jordan Pickford,Everton,"3,420",1.
+Premier League Player Stats,Minuter player,Nick Pope,Burnley,"3,420",1.
+Premier League Player Stats,Minuter player,Declan Rice,West Ham,"3,420",1.
+Attack,shots,MohamedSalah Ghaly,Liverpool,132,1.
+Attack,shots,Raúl Jiménez,Wolves,118,2.
+Attack,shots,Gabriel Jesus,Man City,101,3.
+Attack,shots,Roberto Firmino,Liverpool,99,4.
+Attack,shots,Kevin De Bruyne,Man City,99,4.
+Attack,hit woodwork,KevinDe Bruyne,Man City,6,1.
+Attack,hit woodwork,Danny Ings,,6,1.
+Attack,hit woodwork,Marcus Rashford,Man Utd,6,1.
+Attack,hit woodwork,Sergio Agüero,,5,4.
+Attack,hit woodwork,Gerard Deulofeu,,5,4.
+Attack,through balls,KevinDe Bruyne,Man City,32,1.
+Attack,through balls,James Maddison,Leicester,19,2.
+Attack,through balls,Emiliano Buendía,,17,3.
+Attack,through balls,Jorginho,Chelsea,16,4.
+Attack,through balls,Harry Kane,Spurs,13,5.
+Attack,crosses,TrentAlexander-Arnold,Liverpool,382,1.
+Attack,crosses,Kevin De Bruyne,Man City,304,2.
+Attack,crosses,Lucas Digne,Everton,270,3.
+Attack,crosses,James Ward-Prowse,Southampton,267,4.
+Attack,crosses,Dwight McNeil,Burnley,257,5.
+Defence,tackles,AaronWan-Bissaka,Man Utd,129,1.
+Defence,tackles,Wilfred Ndidi,Leicester,128,2.
+Defence,tackles,Ricardo Pereira,Leicester,119,3.
+Defence,tackles,Declan Rice,West Ham,116,4.
+Defence,tackles,Serge Aurier,Spurs,93,5.
+Defence,blocks,TyroneMings,Aston Villa,48,1.
+Defence,blocks,James Tarkowski,Burnley,47,2.
+Defence,blocks,Ben Godfrey,,37,3.
+Defence,blocks,David Luiz,,37,3.
+Defence,blocks,Lewis Dunk,Brighton,33,5.
+Defence,clearances,JamesTarkowski,Burnley,200,1.
+Defence,clearances,Jan Bednarek,Southampton,193,2.
+Defence,clearances,Tyrone Mings,Aston Villa,189,3.
+Defence,clearances,Federico Fernández,Newcastle,185,4.
+Defence,clearances,Jonny Evans,Leicester,171,5.
+Defence,head clearances,JamesTarkowski,Burnley,111,1.
+Defence,head clearances,Federico Fernández,Newcastle,106,2.
+Defence,head clearances,Chris Basham,,102,3.
+Defence,head clearances,Harry Maguire,Man Utd,94,4.
+Defence,head clearances,Michael Keane,Everton,91,5.
+Goalkeeper,Clean Sheets,EdersonSantana de Moraes,Man City,16,1.
+Goalkeeper,Clean Sheets,Nick Pope,Burnley,15,2.
+Goalkeeper,Clean Sheets,David de Gea,Man Utd,13,3.
+Goalkeeper,Clean Sheets,Rui Patrício,,13,3.
+Goalkeeper,Clean Sheets,Dean Henderson,Man Utd,13,3.
+Goalkeeper,Saves,MartinDúbravka,Newcastle,140,1.
+Goalkeeper,Saves,Tim Krul,Norwich,132,2.
+Goalkeeper,Saves,Aaron Ramsdale,,129,3.
+Goalkeeper,Saves,Nick Pope,Burnley,120,4.
+Goalkeeper,Saves,Ben Foster,Watford,117,5.
+Goalkeeper,Punches,VicenteGuaita,Crystal Palace,22,1.
+Goalkeeper,Punches,Tim Krul,Norwich,20,2.
+Goalkeeper,Punches,Martin Dúbravka,Newcastle,18,3.
+Goalkeeper,Punches,Bernd Leno,Arsenal,17,4.
+Goalkeeper,Punches,Aaron Ramsdale,,17,4.
+Goalkeeper,Goals Conceded,TimKrul,Norwich,68,1.
+Goalkeeper,Goals Conceded,Ben Foster,Watford,64,2.
+Goalkeeper,Goals Conceded,Aaron Ramsdale,,62,3.
+Goalkeeper,Goals Conceded,Martin Dúbravka,Newcastle,58,4.
+Goalkeeper,Goals Conceded,Jordan Pickford,Everton,56,5.
